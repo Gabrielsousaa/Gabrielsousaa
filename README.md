@@ -32,15 +32,14 @@ Currently pursuing a degree in Systems Analysis and Development.
 
 
 
-<h2 align="center">📊 GitHub Dashboard</h2>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsousaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsousaa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsousaa&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=gabrielsousaa&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsousaa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
