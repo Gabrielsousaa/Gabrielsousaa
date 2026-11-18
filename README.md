@@ -28,3 +28,10 @@ Currently pursuing a degree in Systems Analysis and Development.
 - **Comments API** — API for managing users, comments and likes.
 - **MovieStart Web** — Movie platform where users can rate and review films.
 - **Blog App** — Blogging platform with authentication.
+
+
+
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsousaa&layout=compact&theme=tokyonight&langs_count=8)
+
